@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Android Malware Prediction
 date: 2019-04-1
-img: cabin.png
+img: AMP.png
 alt: image-alt
 project-date: April 2019
 client: Self-selected project for Data Mining (SENG474)
